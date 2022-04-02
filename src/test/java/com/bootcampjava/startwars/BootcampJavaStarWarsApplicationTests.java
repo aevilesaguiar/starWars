@@ -1,10 +1,10 @@
-package com.bootcampjava.starwars;
+package com.bootcampjava.startwars;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StarWarsApplicationTests {
+class BootcampJavaStarWarsApplicationTests {
 
 	@Test
 	void contextLoads() {
